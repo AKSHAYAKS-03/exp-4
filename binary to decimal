@@ -9,7 +9,7 @@ while num!=0:
     i=i+1
 print("decimal value",sum)
 
-
+output:
 enter any binary no 1001
 decimal value 9
 
