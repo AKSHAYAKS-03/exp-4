@@ -4,3 +4,13 @@ for i in range(1,n+1):
         print(j, end = "")
     print()
     
+output:
+enter n 5
+1
+12
+123
+1234
+12345
+
+
+    
